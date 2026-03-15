@@ -41,6 +41,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy), [gixy-next](https://github.com/MegaManSec/Gixy-Next)
 - [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration)
 
+- [ReleaseRun Nginx Config Generator](https://releaserun.com/tools/nginx-config-generator/) - Browser-based generator for production-ready Nginx configs with SSL/TLS, HTTP/2, rate limiting, caching, WebSocket proxy, and security headers. Outputs a complete nginx.conf.
+
 ## Security
 
 - [BunkerWeb - Next-generation, open-source Web Application Firewall (WAF) based on Nginx](https://www.bunkerweb.io)
